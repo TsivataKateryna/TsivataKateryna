@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 🎓 Student in Computer Science at UCLouvain (with a prior Bachelor's in Philology).
-
 💡 Passionate about Data Science, AI, and Educational Technology (EdTech).
 
 ⚙️ Tech Stack & Tools
