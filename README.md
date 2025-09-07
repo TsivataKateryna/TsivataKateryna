@@ -2,12 +2,12 @@
 
 Student in Computer Science at UCLouvain (with a prior Bachelor's in Philology).
 
-Passionate about Data Science, AI, and Educational Technology (EdTech).
+Passionate about **Data Science**, **AI**, and **EdTech**.
 
 ⚙️ Tech Stack & Tools
-- languages: Python, Java, SQL, JavaScript
-- libraries & frameworks: Pandas, NumPy, Matplotlib, Scikit-Learn
-- tools: Git/GitHub, VS Code, Kaggle
+- Languages: Python, Java, С++
+- Databases: MongoDB, MySQL, PostgreSQL
+- ML / AI: Scikit-Learn, Ollama
 
 🤝 Open To
 - contributing to open-source projects
