@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 Student in Computer Science at UCLouvain (with a prior Bachelor's in Philology).
 
