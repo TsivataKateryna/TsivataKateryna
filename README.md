@@ -14,6 +14,3 @@ Passionate about **Data Science**, **AI**, and **EdTech**.
 - collaborating on projects in Data Science, AI, and EdTech
 - internship opportunities in Data Analysis, Data Science, or AI
 
-
-📊 My activity
-![Stats](https://github-readme-stats.vercel.app/api?username=TsivataKateryna&show_icons=true&theme=radical)
