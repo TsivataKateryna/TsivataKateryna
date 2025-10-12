@@ -13,3 +13,7 @@ Passionate about **Data Science**, **AI**, and **EdTech**.
 - contributing to open-source projects
 - collaborating on projects in Data Science, AI, and EdTech
 - internship opportunities in Data Analysis, Data Science, or AI
+
+
+📊 My activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TsivataKateryna&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
