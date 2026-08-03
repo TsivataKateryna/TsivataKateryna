@@ -1,4 +1,4 @@
-## About me
+<h1 align="center">Hi 👋, I'm Kateryna</h1>
 
 Computer Science Student @ UCLouvain 🇧🇪
 Previously studied Philology — now combining language, data, and AI.
