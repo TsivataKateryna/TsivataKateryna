@@ -1,19 +1,30 @@
 <h1 align="center">Hi 👋, I'm Kateryna</h1>
 
-Computer Science Student @ UCLouvain 🇧🇪
-Previously studied Philology — now combining language, data, and AI.
+<p align="center">
+  <b>Computer Science Student @ UCLouvain 🇧🇪</b><br>
+  Previously studied Philology — now combining language, data, and AI.
+</p>
 
-Passionate about **Data Science**, **AI**, and **EdTech**.
+<p align="center">
+<b>Data Science</b>, <b>Machine Learning</b>, <b>Artificial Intelligence</b>, and <b>Educational Technologies</b>.
+</p>
 
-⚙️ Tech Stack
+## 💻 Tech Stack
 
-Languages
-• Python • Java • C • R
-• Basic C# • Basic C++
+### Languages
 
-Data Science & AI
-• NumPy • Pandas • Scikit-Learn • Jupyter 
-• Ollama
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Data Science & AI
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 Databases
 • PostgreSQL • MySQL • MongoDB
