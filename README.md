@@ -1,13 +1,32 @@
 ## About me
 
-Student in Computer Science at UCLouvain (with a prior Bachelor's in Philology).
+Computer Science Student @ UCLouvain 🇧🇪
+Previously studied Philology — now combining language, data, and AI.
 
 Passionate about **Data Science**, **AI**, and **EdTech**.
 
-⚙️ Tech Stack & Tools
-- Languages: Python, Java, C (with basic knowledge of C# and C++)
-- Databases: MongoDB, MySQL, PostgreSQL
-- ML / AI: Scikit-Learn, Ollama
+⚙️ Tech Stack
+
+Languages
+• Python • Java • C • R
+• Basic C# • Basic C++
+
+Data Science & AI
+• NumPy • Pandas • Scikit-Learn • Jupyter 
+• Ollama
+
+Databases
+• PostgreSQL • MySQL • MongoDB
+
+Tools
+• Git • GitHub • Linux
+
+🎯 Goals
+
+- Build useful AI applications
+- Contribute to open-source
+- Learn modern ML techniques
+- Create educational AI tools
 
 🤝 Open To
 - contributing to open-source projects
