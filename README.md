@@ -90,7 +90,9 @@ Machine Learning • Python
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Kateryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsivataKateryna&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsivataKateryna&layout=compact)
 
